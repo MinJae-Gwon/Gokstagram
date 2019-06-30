@@ -1,0 +1,3 @@
+[submodule "Gokstagram"]
+	path = Gokstagram
+	url = https://github.com/MinJae-Gwon/Gokstagram.git
